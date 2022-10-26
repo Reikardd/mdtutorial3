@@ -1,0 +1,17 @@
+[33mcommit d5cfa4bede7f00afe047e5fe911b19368ff8b39a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pavel Sawchenko <pashka.sawchenko@yandex.ru>
+Date:   Wed Oct 26 13:10:51 2022 +0300
+
+    feat: how to add a file or files to the next commit
+
+[33mcommit 8af1678526273a717b23a888eb64051f88f10e98[m
+Author: Pavel Sawchenko <pashka.sawchenko@yandex.ru>
+Date:   Wed Oct 26 13:04:37 2022 +0300
+
+    fix: How to get information from git about its current state
+
+[33mcommit ebd9d40a152de686f8ba766b147b5d0d75f9b0ad[m
+Author: Pavel Sawchenko <pashka.sawchenko@yandex.ru>
+Date:   Wed Oct 26 12:52:59 2022 +0300
+
+    init: init new repository
